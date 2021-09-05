@@ -11,7 +11,7 @@ function listaUsuarios(usuarios) {
 					<tr> 
 					<td> Id  </td>
 					<td>Titulo</td>
-					<td>corpo</td>
+					<td>Corpo</td>
 					</tr>
 					<tr> 
 					<td>  ${id}  </td>
